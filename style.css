@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.navbar{
+    background-color: rgb(82, 82, 82);
+}
+
+.ul{
+    display: flex;
+    flex-direction: row;
+  justify-content: space-evenly;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    /* justify-content: space-around; */
+    color: white;
+}
+
+/* Footer/////////////////////// */
+
+
+
+ul{
+    list-style-type: none;
+}
+
+.foot{
+    background-color: rgb(66, 126, 255);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer-elements{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+
+/* logo  <<<<<<<<<////////.............,,,,,>>>>>>>> */
+.subscribe{
+display: flex;
+flex-direction: column;
+
+}
+
+.social_icons{
+    display: flex;
+    flex-direction: row;
+   gap: 5px;
+}
+
+.Facebook{
+width: 10px;
+height: 10px;
+/* border: 1px solid green; */
+}
+.Twitter{
+    width: 10px;
+    height: 10px;
+    /* border: 1px solid white; */
+}
+
+.Google{
+    width: 10px;
+    height: 10px;
+    /* border: 1px solid white; */
+}
+
+.Instagram{
+    width: 10px;
+    height: 10px;
+    /* border: 1px solid white; */
+}
+
+
+
+.icon{
+    border: 1px solid white;
+    border-radius: 100%;
+}
